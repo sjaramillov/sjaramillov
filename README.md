@@ -5,7 +5,6 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sjaramillov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sjaramillov)
 [![maico.bio](https://img.shields.io/badge/maico.bio-AI%20for%20Biodiversity-0F5950?style=flat-square)](https://maico.bio)
-[![Email](https://img.shields.io/badge/Email-sebastian.valderrama@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:sebastian.valderrama@gmail.com)
 [![Location](https://img.shields.io/badge/Medellín-Colombia-A3CC2E?style=flat-square&logo=googlemaps&logoColor=white)](#)
  
 </div>
@@ -82,6 +81,6 @@ Senior technical advisor at **Oracle** (2019–2026): cloud and AI solution arch
 <div align="center">
 **Always open to conversations about AI, biodiversity, and building things that matter.**
  
-<sub>maico.bio · sebastian.valderrama@gmail.com · Medellín, Colombia</sub>
+<sub>maico.bio  · Medellín, Colombia</sub>
  
 </div>
