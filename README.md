@@ -14,7 +14,7 @@
  
 ### [maico.bio](https://beta.maico.bio) — the data infrastructure for the fungal kingdom of the Neotropics
  
-Fungi recycle the planet and have sustained forests for **470 million years** — yet they're the most unknown branch of life, and their data lives scattered across PDFs and incompatible databases. maico.bio fixes that.
+Fungi recycle the planet and have sustained forests for **400 million years** — yet they're the most unknown branch of life, and their data lives scattered across PDFs and incompatible databases. maico.bio fixes that.
  
 ```
 nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  expert signs off
