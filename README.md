@@ -10,7 +10,7 @@
 </div>
 ---
  
-## 🌿 What I'm building
+## 🍄‍🟫 What I'm building 🍄‍🟫
  
 ### [maico.bio](https://beta.maico.bio) — the data infrastructure for the fungal kingdom of the Neotropics
  
