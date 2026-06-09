@@ -4,7 +4,7 @@
 <br/><br/>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sjaramillov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sjaramillov)
-[![maico.bio](https://img.shields.io/badge/maico.bio-AI%20for%20Biodiversity-0F5950?style=flat-square)](https://maico.bio)
+[![maico.bio](https://img.shields.io/badge/maico.bio-AI%20for%20Biodiversity-0F5950?style=flat-square)](https://beta.maico.bio)
 [![Location](https://img.shields.io/badge/Medellín-Colombia-A3CC2E?style=flat-square&logo=googlemaps&logoColor=white)](#)
  
 </div>
