@@ -25,7 +25,7 @@ nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  
 - **Human-in-the-loop by design** — the agent does the work, the expert keeps the judgment
 - Weeks of manual research collapsed into a **~90-second first draft**
 - Built end to end with an **AI-SDLC** (AI-driven Software Development Lifecycle)
-> Selected → **Fireworks for Startups** · Building in **30X Hardcore AI · Cohort 2**
+> Selected → **Parquesoft** · Building in **30X Hardcore AI · Cohort 2**
  
 ---
  
