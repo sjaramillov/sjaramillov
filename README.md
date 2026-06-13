@@ -42,7 +42,7 @@ I design systems where **AI does the heavy lifting and humans keep the judgment*
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-0F5950?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0F5950?style=flat-square)
 ![LLM](https://img.shields.io/badge/Llama_·_Qwen_·_OpenAI-555?style=flat-square)
-![AI-SDLC](https://img.shields.io/badge/AI--SDLC-A3CC2E?style=flat-square)
+![AI-DLC](https://img.shields.io/badge/AI--SDLC-A3CC2E?style=flat-square)
  
 **Cloud & Infra** &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
