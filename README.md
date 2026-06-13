@@ -74,7 +74,7 @@ I design systems where **AI does the heavy lifting and humans keep the judgment*
  
 **Electronic Engineer** — Universidad de Antioquia · **10+ years** across Latin America, bridging strategy, technical delivery and applied AI.
  
-Senior technical advisor at **Oracle** (2019–2026): cloud and AI solution architecture across health, finance and public sector — including the architecture behind **Nequi's migration to AWS** and **+$10M USD** in strategic enterprise deals (Bancolombia, EPM, Grupo ISA / XM), with a client reporting solution that cut report-generation time by **50%**.
+Senior technical advisor at **Oracle** (2019–2026): cloud and AI solution architecture across health, finance and public sector — including the architecture behind **Nequi's CORE-DB migration best-practice to AWS** and **+$10M USD** in strategic enterprise deals (Bancolombia, EPM, Grupo ISA / XM), with a client reporting solution that cut report-generation time by **50%**.
  
 ---
  
