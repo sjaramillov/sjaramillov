@@ -24,7 +24,7 @@ nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  
 - A **multi-agent pipeline** that drafts IUCN extinction-risk assessments and routes them to credentialed scientists for sign-off
 - **Human-in-the-loop by design** — the agent does the work, the expert keeps the judgment
 - Weeks of manual research collapsed into a **~90-second first draft**
-- Built end to end with an **AI-SDLC** (AI-driven Software Development Lifecycle)
+- Built end to end with an **AI-DLC** (AI-driven Development Lifecycle)
 > Selected → **Parquesoft** · Building in **30X Hardcore AI · Cohort 2**
  
 ---
