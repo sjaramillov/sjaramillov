@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b59e261a-cb53-449f-ab6c-7a4b5fb75e9d" alt="Sebastián Jaramillo Valderrama — Principal Technologist & AI Solution Architect" width="100%" />
+<img src="https://github.com/user-attachments/assets/b59e261a-cb53-449f-ab6c-7a4b5fb75e9d" alt="Sebastián Jaramillo Valderrama, Principal Technologist & AI Solution Architect" width="100%" />
   
 <br/><br/>
  
@@ -12,9 +12,9 @@
  
 ## 🍄‍🟫 What I'm building 🍄‍🟫
  
-### [maico.bio](https://maico.bio) — the data infrastructure for the fungal kingdom of the Neotropics
+### [maico.bio](https://maico.bio) : the data infrastructure for the fungal kingdom of the Neotropics
  
-Fungi recycle the planet and have sustained forests for **400 million years** — yet they're the most unknown branch of life, and their data lives scattered across PDFs and incompatible databases. maico.bio fixes that.
+Fungi recycle the planet and have sustained forests for **400 million years**, yet they're the most unknown branch of life, and their data lives scattered across PDFs and incompatible databases. maico.bio fixes that.
  
 ```
 nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  expert signs off
@@ -22,7 +22,7 @@ nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  
 ```
  
 - A **multi-agent pipeline** that drafts IUCN extinction-risk assessments and routes them to credentialed scientists for sign-off
-- **Human-in-the-loop by design** — the agent does the work, the expert keeps the judgment
+- **Human-in-the-loop by design** , the agent does the work, the expert keeps the judgment
 - Weeks of manual research collapsed into a **~90-second first draft**
 - Built end to end with an **AI-DLC** (AI-driven Development Lifecycle)
 > Selected → **Parquesoft** · Building in **30X Hardcore AI · Cohort 2**
@@ -31,7 +31,7 @@ nombre científico  →  agent reconciles 5 sources  →  IUCN risk draft  →  
  
 ## 🧬 How I build
  
-I design systems where **AI does the heavy lifting and humans keep the judgment** — especially in domains where being wrong has consequences. Spec-first, agent-driven, with the human-in-the-loop treated as a feature, not a fallback.
+I design systems where **AI does the heavy lifting and humans keep the judgment**, especially in domains where being wrong has consequences. Spec-first, agent-driven, with the human-in-the-loop treated as a feature, not a fallback.
  
 ---
  
@@ -74,7 +74,7 @@ I design systems where **AI does the heavy lifting and humans keep the judgment*
  
 **Electronic Engineer** — Universidad de Antioquia · **10+ years** across Latin America, bridging strategy, technical delivery and applied AI.
  
-Senior technical advisor at **Oracle** (2019–2026): cloud and AI solution architecture across health, finance and public sector — including the architecture behind **Nequi's CORE-DB migration best-practice to AWS** and **+$10M USD** in strategic enterprise deals (Bancolombia, EPM, Grupo ISA / XM), with a client reporting solution that cut report-generation time by **50%**.
+Senior technical advisor at **Oracle** (2019–2026): cloud and AI solution architecture across health, finance and public sector, including the architecture behind **Nequi's CORE-DB migration best-practice to AWS** and **+$10M USD** in strategic enterprise deals (Bancolombia, EPM, Grupo ISA / XM), with a client reporting solution that cut report-generation time by **50%**.
  
 ---
  
