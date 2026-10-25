@@ -61,7 +61,7 @@ I design systems where **AI does the heavy lifting and humans keep the judgment*
 ## 🏅 Recognition & certifications
  
 [![30X Hardcore AI](https://img.shields.io/badge/30X_Hardcore_AI-Spec--Driven_Developer_·_Cohort_2-A3CC2E?style=for-the-badge)](https://hardcoreai30x.online)
-[![AWS for Startups](https://img.shields.io/badge/Fireworks_AI-for_Startups-FF5722?style=for-the-badge)](https://fireworks.ai)
+[![AWS for Startups](https://img.shields.io/badge/AWS-for_Startups-FF5722?style=for-the-badge)](https://fireworks.ai)
  
 ![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-×14-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-×3-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
